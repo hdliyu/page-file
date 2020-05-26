@@ -1,0 +1,14 @@
+{
+    "name": "hdliyu/page-file",
+    "description": "show a file with page in brower",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hdliyu",
+            "email": "278746453@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
